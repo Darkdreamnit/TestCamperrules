@@ -15,7 +15,7 @@ featuredimage: /img/crypto.png
 
 # What is crypto Currency?
 
-
+![](/img/crypto.png)
 
 <!--EndFragment-->
 

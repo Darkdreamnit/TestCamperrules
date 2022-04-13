@@ -69,9 +69,9 @@ A digital currency is a payment system that operates without the use of traditio
 
 Cryptocurrencies are becoming increasingly important because of:
 
-* how it enables new businesses and markets to grow
-* how it provides the ability for anyone with internet access to transact with others anywhere in the world
-* how easy it is for anyone to participate, even through small purchases
+* How it enables new businesses and markets to grow
+* How it provides the ability for anyone with internet access to transact with others anywhere in the world
+* How easy it is for anyone to participate, even through small purchases
 
 ## How can you invest in crypto currencies?
 
